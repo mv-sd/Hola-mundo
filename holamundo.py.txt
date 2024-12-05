@@ -1,1 +1,1 @@
-print("Hola, somos Dani y Mire del colegio San Daniel de la clase 3ºB)
+print("Hola, somos Dani y Mire del colegio San Daniel de la clase 3ºB")
